@@ -1,0 +1,18 @@
+td.pink1:hover{
+    background: #f57e7e!important;
+}
+td.pink2:hover{
+    background: #f57e7e!important;
+}
+h4.grpwth_1:hover{
+    color: #5044f5!important;
+}
+h4.grpwth_2:hover{
+    color: #5044f5!important;
+}
+
+@media (max-width: 397px) {
+    #div_head_addaccount{
+        display: none;
+    }
+}
