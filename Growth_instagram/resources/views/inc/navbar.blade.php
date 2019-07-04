@@ -4,7 +4,7 @@
         <div id="main-menu" class="main-menu collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li class="active">
-                    <a href="index.html"><i class="menu-icon fa fa-home"></i>Dashboard </a>
+                    <a href="./"><i class="menu-icon fa fa-home"></i>Dashboard </a>
                 </li>
                 <li class="menu-item-has-children dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -15,16 +15,19 @@
                     </ul>
                 </li>
                 <li>
-                    <a href=""> <i class="menu-icon fa fa-medkit"></i>Help Center </a>
+                    <a href="./"> <i class="menu-icon fa fa-medkit"></i>Help Center </a>
                 </li>
                 <li>
-                    <a href=""> <i class="menu-icon fa fa-trophy"></i>Platform Status</a>
+                    <a href="./"> <i class="menu-icon fa fa-trophy"></i>Platform Status</a>
                 </li>
                 <li>
-                    <a href=""> <i class="menu-icon fa fa-cogs"></i>Manage Billing</a>
+                    <a href="./managebilling"> <i class="menu-icon fa fa-cogs"></i>Manage Billing</a>
                 </li>
                 <li>
-                    {{--<div style="background: #00c292;float: bottom;">what is this?</div>--}}
+                    {{--<div style="background: #00c292;float: bottom;">--}}
+                    {{--<a href="javascript:void(0)" data-cb-type="checkout" data-cb-plan-id="growthsocialmedia" >subscribe</a>--}}
+                    {{--<a href="javascript:void(0)" data-cb-type="portal" >Manage account</a>--}}
+                    {{--</div>--}}
                 </li>
             </ul>
         </div>
